@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5B6B4365136C5461C6CE27FDD8622296FB9647E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5B6B4365136C5461C6CE27FDD8622296FB9647E1" : 9223372036854775807,
+    "29B841A78ADB181D932ACCBF90F3137F04DB4B84" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1E430376-91FC-462C-B81C-DCD57F18B4C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5B6B4365136C5461C6CE27FDD8622296FB9647E1" : "U-Lab\/",
+    "29B841A78ADB181D932ACCBF90F3137F04DB4B84" : "ZWKCharts-master\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "U-Lab",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "U-Lab.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Wakeen96\/ZWKCharts.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "29B841A78ADB181D932ACCBF90F3137F04DB4B84"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/Wakeen\/U-Lab.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B6B4365136C5461C6CE27FDD8622296FB9647E1"
+    }
+  ]
+}
