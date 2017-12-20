@@ -1,1 +1,2 @@
-#ULab-Wakeen
+结合RAC使用MVVM架构的一个项目
+通过自定义ViewController以及UIView，实现相应的协议，进行view创建以及数据绑定，将网络请求与数据的解析全部交给VM层，C层只负责各个页面之间联系的处理

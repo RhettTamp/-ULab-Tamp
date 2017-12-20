@@ -1847,7 +1847,7 @@
 					"$(PROJECT_DIR)/U-Lab/Classes/Venders",
 					"$(PROJECT_DIR)",
 				);
-				GCC_PREFIX_HEADER = "/Users/tanpei/ULab-Wakeen/U-Lab/Classes/Macro/ULHeaders.pch";
+				GCC_PREFIX_HEADER = "/Users/tanpei/ULab-Tamp/U-Lab/Classes/Macro/ULHeaders.pch";
 				INFOPLIST_FILE = "U-Lab/SupportingFiles/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1880,7 +1880,7 @@
 					"$(PROJECT_DIR)/U-Lab/Classes/Venders",
 					"$(PROJECT_DIR)",
 				);
-				GCC_PREFIX_HEADER = "/Users/tanpei/ULab-Wakeen/U-Lab/Classes/Macro/ULHeaders.pch";
+				GCC_PREFIX_HEADER = "/Users/tanpei/ULab-Tamp/U-Lab/Classes/Macro/ULHeaders.pch";
 				INFOPLIST_FILE = "U-Lab/SupportingFiles/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

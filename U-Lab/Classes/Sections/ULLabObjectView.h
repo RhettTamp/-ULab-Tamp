@@ -11,4 +11,5 @@
 @interface ULLabObjectView : ULView
 
 @property (nonatomic, strong) RACSubject *nextSubject;  /**< <#comment#> */
+
 @end
